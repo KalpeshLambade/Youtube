@@ -28,4 +28,26 @@
     #main{
         width: 100%;
     }
+    .videos{
+        height: 150vh;
+        flex-wrap: wrap;
+        margin: 0;
+    }
+    .videos >div{
+        width: 100%;
+        height: 24%;
+    }
+    .video-card >div:nth-child(2) >div{
+        height: 80%;
+        margin-top: 5%;
+    }
+    .video-card >div:nth-child(3) >p:nth-child(1){
+        font-size: 3.5vw;
+    }
+    .video-card >div:nth-child(3) >p:nth-child(2){
+        font-size: 3vw;
+    }
+    .video-card >div:nth-child(3) >p:nth-child(3){
+        font-size: 3vw;
+    }
 }
