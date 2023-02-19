@@ -1,0 +1,31 @@
+@media screen and (max-width:500px) {
+    #searchbar{
+        display: none;
+    }
+    #yt-logo {
+        width:30%;
+    }
+    #profile{
+        width:35%;
+    }
+    #yt-logo >div{
+        height:50%;
+    }
+    #yt-logo >div:nth-child(1) i{
+        font-size: 4.8vw;
+    }
+    #profile >div{
+        height: 80%;
+    }
+        
+    #profile >div i{
+        font-size:5vw;
+        margin:20%;
+    }
+    #sidebar,#main >div:nth-child(1){
+        display: none;
+    }
+    #main{
+        width: 100%;
+    }
+}
