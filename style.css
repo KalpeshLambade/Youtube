@@ -200,4 +200,53 @@
     margin: 0 40%;
     color:black;
 }
+.short{
+height: 40%;
+width:100%;
+}
+.short >div:nth-child(1){
+    height: 10%;
+    width:10%;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2vw;
+}
+.short >div:nth-child(2){
+    height: 90%;
+    width:100%;
+}
+.reel{
+    flex-wrap: wrap;
+    width:19%;
+    border: 1px solid rgb(188, 173, 173);
+}
+.reel >div:nth-child(1){
+    height: 80%;
+    width: 100%;
+    background-image: url("https://cdn.wallpapersafari.com/22/70/oZCrvS.jpeg");
+    background-size: 100% 100%;
+}
+.reel >div:nth-child(2){
+    width:80%;
+    height:10%;
+}
+.reel >div:nth-child(3){
+    width:20%;
+    height:10%;
+}
+.reel >div:nth-child(4){
+    width:100%;
+    height:10%;
+}
+.reel >div:nth-child(2) p{
+    font-size:1.5vw;
+    font-weight: bold;
+}
+.reel >div:nth-child(3) i{
+    margin: 0 40%;
+}
+.reel >div:nth-child(4) p{
+    font-size: 1.3vw;
+}
+
 
