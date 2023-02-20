@@ -217,20 +217,27 @@ width:100%;
 }
 .reel{
     flex-wrap: wrap;
-    width:19%;
+    width:15%;
     border: 1px solid rgb(188, 173, 173);
 }
 .reel >div:nth-child(1){
     height: 80%;
     width: 100%;
-    background-image: url("https://cdn.wallpapersafari.com/22/70/oZCrvS.jpeg");
-    background-size: 100% 100%;
+    /* background-image: url("https://cdn.wallpapersafari.com/22/70/oZCrvS.jpeg");
+    background-size: 100% 100%; */
 }
+.reel >div:nth-child(1) >video{
+    height: 100%;
+    width:100%;
+}
+
 .reel >div:nth-child(2){
+    margin-top: 4%;
     width:80%;
     height:10%;
 }
 .reel >div:nth-child(3){
+    margin-top: 4%;
     width:20%;
     height:10%;
 }
