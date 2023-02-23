@@ -1,9 +1,6 @@
 # Youtube!
-<!-- [Web capture_20-2-2023_122414_127 0 0 1](https://user-images.githubusercontent.com/123794408/220037602-0951e890-c52f-4dd0-a301-143e085da548.jpeg) -->
-<h1>Desktop view </h1>
-<img src ="https://user-images.githubusercontent.com/123794408/220037602-0951e890-c52f-4dd0-a301-143e085da548.jpeg" alt="mobile view">
-<h1>Mobile View</h1>
-<!-- ![Web capture_20-2-2023_125632_127 0 0 1](https://user-images.githubusercontent.com/123794408/220038674-759a5606-d9c6-4cbc-8675-218ff683d29a.jpeg) -->
-<img src ="https://user-images.githubusercontent.com/123794408/220038674-759a5606-d9c6-4cbc-8675-218ff683d29a.jpeg" alt="mobile view" >
 
-https://user-images.githubusercontent.com/123794408/220044185-a50a7e8c-78fd-4269-a5e3-2a5b67d2b8e8.mp4
+<!-- ![Web capture_23-2-2023_134029_127 0 0 1](https://user-images.githubusercontent.com/123794408/220852606-6a1e1615-b408-4eb2-8e85-8e38d7f04e58.jpeg) -->
+<img src="https://user-images.githubusercontent.com/123794408/220852606-6a1e1615-b408-4eb2-8e85-8e38d7f04e58.jpeg" alt="desktop-view" />
+<!-- ![Web capture_23-2-2023_135456_127 0 0 1](https://user-images.githubusercontent.com/123794408/220854585-3e4058ee-5e01-473a-a125-3c2bb665fc8f.jpeg) -->
+<img src="https://user-images.githubusercontent.com/123794408/220854585-3e4058ee-5e01-473a-a125-3c2bb665fc8f.jpeg" alt="mobile view" />
