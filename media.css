@@ -48,7 +48,7 @@
         margin-top: 5%;
     }
     .video-card >div:nth-child(3) >p:nth-child(1){
-        font-size: 3.5vw;
+        font-size: 3.2vw;
     }
     .video-card >div:nth-child(3) >p:nth-child(2){
         font-size: 3vw;
@@ -57,7 +57,7 @@
         font-size: 3vw;
     }
     .short{
-        height: 40vh;
+        height: 45vh;
         margin-bottom: 5%;
         /* margin: 10px 0; */
     }
@@ -82,7 +82,7 @@
         
     }
     .reel >div:nth-child(2),.reel >div:nth-child(3) {
-        margin-top:0;
+        margin-bottom: 8px;
     }
     .reel >div:nth-child(4){
         /* margin-bottom: 5%; */
@@ -91,6 +91,7 @@
 
     .reel >div:nth-child(2) p{
         font-size:3vw;
+        padding: 5px;
     }
     .reel >div:nth-child(2){
         height:10%;
